@@ -1,0 +1,4 @@
+Model,Vectorisation,Type,Test Accuracy
+Logistic Regression,TF-IDF,Traditional ML,1.0000
+Naive Bayes,TF-IDF,Traditional ML,1.0000
+Bidirectional LSTM,Word Embeddings,Deep Learning,0.3500

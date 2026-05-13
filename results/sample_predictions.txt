@@ -1,0 +1,34 @@
+SAMPLE PREDICTIONS — LSTM
+Customer Support Sentiment Analysis
+============================================================
+
+✗  True:positive | Pred:neutral (34.5%)
+   like new payment easy use ticket number...
+
+✗  True:positive | Pred:neutral (34.5%)
+   great service clear communication support team...
+
+✗  True:negative | Pred:neutral (34.5%)
+   refund still pending experience frustrating...
+
+✗  True:negative | Pred:neutral (34.5%)
+   app crashes whenever try use analytics...
+
+✗  True:positive | Pred:neutral (34.5%)
+   response team helpful professional...
+
+✓  True:neutral | Pred:neutral (34.5%)
+   someone explain difference plans...
+
+✗  True:positive | Pred:neutral (34.5%)
+   like new video call easy use...
+
+✗  True:positive | Pred:neutral (34.5%)
+   like new report download easy use...
+
+✓  True:neutral | Pred:neutral (34.5%)
+   someone explain difference plans...
+
+✓  True:neutral | Pred:neutral (34.5%)
+   want understand warranty terms product...
+
